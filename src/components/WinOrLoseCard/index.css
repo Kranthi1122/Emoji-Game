@@ -1,0 +1,32 @@
+/* Write your code here. */
+.win-lose {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  background-color: #ffffff33;
+  border-radius: 20px;
+  margin-top: 20px;
+  height: 60%;
+  width: 30%;
+}
+.score {
+  color: blue;
+  font-weight: bold;
+}
+.btn {
+  height: fit-content;
+  width: fit-content;
+  color: black;
+  background-color: #ffce27;
+  padding: 10px;
+  border-radius: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.image22 {
+  height: 300px;
+}
+.h1 {
+  font-family: 'Roboto';
+  color: white;
+}

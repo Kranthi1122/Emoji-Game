@@ -1,0 +1,29 @@
+/* Write your code here. */
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  color: white;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.scores {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
+.name {
+  justify-content: flex-start;
+  padding-left: 90px;
+}
+.image {
+  height: 50px;
+  margin-top: 10px;
+}
+p {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  margin: 3px;
+}
